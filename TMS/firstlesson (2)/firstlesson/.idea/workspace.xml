@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c96ed599-20d0-4ea3-9ff5-159107c9f2f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Tt9dxb18sldirxZIjZJF8slsOC" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.ForIf">
+    <configuration name="ForIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.tms.ForIf" />
+      <module name="firstlesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.tms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="by.tms.Main" />
+      <module name="firstlesson" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ForIf" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96ed599-20d0-4ea3-9ff5-159107c9f2f9" name="Default Changelist" comment="" />
+      <created>1574268616653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574268616653</updated>
+      <workItem from="1574268625047" duration="6951000" />
+      <workItem from="1574696444150" duration="9189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1574268641106">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="492" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.720@0.0.1280.720" timestamp="1574268641106" />
+    <state width="1280" height="291" key="GridCell.Tab.0.bottom" timestamp="1574702971332">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="291" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1574702971332" />
+    <state width="1238" height="186" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1574283120106" />
+    <state width="1280" height="291" key="GridCell.Tab.0.center" timestamp="1574702971329">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="291" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1574702971329" />
+    <state width="1238" height="186" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1574283120104" />
+    <state width="1280" height="291" key="GridCell.Tab.0.left" timestamp="1574702971326">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="291" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1574702971326" />
+    <state width="1238" height="186" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1574283119951" />
+    <state width="1280" height="291" key="GridCell.Tab.0.right" timestamp="1574702971331">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="291" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1574702971331" />
+    <state width="1238" height="186" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1574283120105" />
+  </component>
+</project>

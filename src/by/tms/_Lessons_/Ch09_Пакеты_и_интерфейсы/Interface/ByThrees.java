@@ -1,0 +1,29 @@
+package by.tms._Lessons_.Ch09_Пакеты_и_интерфейсы.Interface;
+
+public class ByThrees implements Series {
+    int start;
+    int val;
+
+    public ByThrees() {
+        start = 0;
+        val = 0;
+    }
+
+    @Override
+    public int getNext() {
+        val += 3;
+        return val;
+    }
+
+    @Override
+    public void reset() {
+        start = 0;
+        val = 0;
+    }
+
+    @Override
+    public void setStart(int x) {
+        start = x;
+        val = x;
+    }
+}
